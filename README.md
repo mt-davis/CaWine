@@ -141,17 +141,10 @@ Contributions to improve the analyzer are welcome. Please follow these steps:
 4. Push to the branch
 5. Create a Pull Request
 
-## License
 
-[Specify License]
-
-## Contact
-
-[Specify Contact Information]
 
 ## Acknowledgments
 
 - California Wine Institute
 - CAL FIRE
 - NOAA
-- [Other relevant organizations]
